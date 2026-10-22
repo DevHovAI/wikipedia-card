@@ -9,4 +9,5 @@ First release as a standalone card.
 - Optional further paragraphs from the following sections, with headings
 - Line limit with a fade on the last line, only when text is cut
 - Source line with the CC BY-SA 4.0 notice
+- Images are cropped slightly above center, so portraits keep their faces
 - All options in the visual card editor

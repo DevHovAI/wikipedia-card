@@ -4,6 +4,10 @@ A Home Assistant dashboard card that shows a random Wikipedia article – image,
 short description and the first paragraphs – and switches to a new one every few minutes.
 Made for wall displays and kiosks, but works on any dashboard.
 
+<img src="images/screenshot.png" alt="Wikipedia Random Article Card showing Johann Sebastian Bach" width="420">
+
+<sub>Text: Wikipedia, CC BY-SA 4.0 · Portrait by Elias Gottlob Haussmann (1748), public domain</sub>
+
 - Any Wikipedia language, or several mixed at random (`en, de`)
 - Keeps life dates and other details in parentheses, e.g. *(born April 25, 1975)*
 - One paragraph or more; further paragraphs continue into the article's sections, with headings

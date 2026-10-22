@@ -263,6 +263,8 @@ class WikipediaCard extends HTMLElement {
         ha-card { overflow: hidden; }
         img {
           display: block; width: 100%; object-fit: cover;
+          /* Slightly above center, so portraits keep their faces. */
+          object-position: 50% 25%;
           background: var(--secondary-background-color, #000);
         }
         .body { padding: 12px 16px 14px; }
